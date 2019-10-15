@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+int i,n,t1=0,t2=1,temp;
+printf("enter a number:");
+scanf("%d" ,&n);
+for(i=1
