@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main() {
+    int r;
+                     printf("enter the radius:");
+scanf("%d",&r);
+
+
+    return 0;
+}
