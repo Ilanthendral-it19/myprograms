@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+int m;
+ printf("enter the mark:");
+  scanf("%d",&m);
+switch(m)
+{
+case  m>=90:
+  printf("grade A");
+  break;
+
